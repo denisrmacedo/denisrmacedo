@@ -1,6 +1,6 @@
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou o Denis Macedo</h1>
 
-- 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
+- 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
 
 - 📈 Adepto das **metodologias agéis** e do **clean code**, também possuo a certificação **Team Kanban Practioner** pela (Kanban University) [Da uma conferida aqui](https://edu.kanban.university/user/85128/16102/149/certificate).
 
