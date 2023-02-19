@@ -1,13 +1,23 @@
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou o Denis Macedo</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+<p> My name is Denis Macedo and i'm a Sofware Developer, from <b>Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
+
+## About me
+
+- ✨ Desenvolvendo Software desde 2018 🚀
+- 📈 Sou adepto das **metodologias agéis** e do **clean code**,  
 - 🎯 Amo tecnologias e adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
-
-- 📈 Adepto das **metodologias agéis** e do **clean code**, também possuo as certificações: **Team Kanban Practioner** pela (Kanban University) [Da uma conferida aqui](https://edu.kanban.university/user/85128/16102/149/certificate) e ITIL® Foundation Certificate in IT Service Management pela EXIN.
-
-- 🎓 Formado em **Sistemas de Informação** e com Pós Graduação em **Gerenciamento de Projeto**.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/denisrmacedo)](https://github.com/denisrmacedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisrmacedo/)](https://www.linkedin.com/in/denisrmacedo/)
+
+## Education
+- 🎓 Formado em **Sistemas de Informação**.
+- 🎓 Pós Graduação em **Gerenciamento de Projeto**.
+
+## Certifications
+- 🎓 **Team Kanban Practioner** pela (Kanban University) [Da uma conferida aqui](https://edu.kanban.university/user/85128/16102/149/certificate)
+- 🎓 **EXIN** - ITIL® Foundation Certificate in IT Service Management
 
 <hr>
 <h2 dir="auto"><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>  Tech Stack</h2>
