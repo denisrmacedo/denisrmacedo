@@ -4,7 +4,7 @@
 
 ## About me
 
-- ✨ Desenvolvendo Sistemas desde 2018 🚀
+- ✨ Desenvolvo Sistemas desde 2018 🚀
 - 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,  
 - 🎯 Amo tecnologias e adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
 
