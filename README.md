@@ -2,7 +2,7 @@
 
 - 🎯 Amo tecnologias e adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
 
-- 📈 Adepto das **metodologias agéis** e do **clean code**, também possuo as certificações **Team Kanban Practioner** pela (Kanban University) [Da uma conferida aqui](https://edu.kanban.university/user/85128/16102/149/certificate) e ITIL® Foundation Certificate in IT Service Management pela EXIN.
+- 📈 Adepto das **metodologias agéis** e do **clean code**, também possuo as certificações: **Team Kanban Practioner** pela (Kanban University) [Da uma conferida aqui](https://edu.kanban.university/user/85128/16102/149/certificate) e ITIL® Foundation Certificate in IT Service Management pela EXIN.
 
 - 🎓 Formado em **Sistemas de Informação** e com Pós Graduação em **Gerenciamento de Projeto**.
 
