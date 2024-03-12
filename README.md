@@ -16,8 +16,8 @@
 - 🎓 Pós Graduação em **Gerenciamento de Projeto**.
 
 ## Certifications
-- 🎓 **Microsoft Certified:** Azure Fundamentals.
-- 🎓 **Kanban University** Team Kanban Practioner.
+- 🎓 **Microsoft Certified** - Azure Fundamentals.
+- 🎓 **Kanban University** - Team Kanban Practioner.
 - 🎓 **EXIN** - ITIL® Foundation Certificate in IT Service Management.
 
 <hr>
