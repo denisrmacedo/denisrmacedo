@@ -12,8 +12,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisrmacedo/)](https://www.linkedin.com/in/denisrmacedo/)
 
 ## Education
-- 🎓 Formado em **Sistemas de Informação**.
 - 🎓 Pós Graduação em **Gerenciamento de Projeto**.
+- 🎓 Formado em **Sistemas de Informação**.
 
 ## Certifications
 - 🎓 **Microsoft Certified** - Azure Fundamentals.
