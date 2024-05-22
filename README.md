@@ -16,7 +16,7 @@
 - 🎓 Formado em **Sistemas de Informação**.
 
 ## Certifications
-- 🎓 **Microsoft Certified** - Azure Fundamentals.
+- 🎓 **Microsoft Certified** - Azure Fundamentals (Azure AZ900).
 - 🎓 **Kanban University** - Team Kanban Practioner.
 - 🎓 **EXIN** - ITIL® Foundation Certificate in IT Service Management.
 
