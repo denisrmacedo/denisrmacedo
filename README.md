@@ -1,8 +1,9 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Denis Macedo and i'm a Sofware Developer, from <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
+<!-- <p> My name is Denis Macedo and i'm a Sofware Developer, from <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p> -->
+<p> Oi!, meu nome é Denis Macedo, sou um Desenvolvedor de Sistemas, de <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
 
-## About me
+## Sobre
 
 - ✨ Desenvolvo Sistemas desde 2018 🚀
 - 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,  
@@ -11,11 +12,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/denisrmacedo)](https://github.com/denisrmacedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisrmacedo/)](https://www.linkedin.com/in/denisrmacedo/)
 
-## Education
+## Educação
 - 🎓 Pós Graduação em **Gerenciamento de Projeto**.
-- 🎓 Formado em **Sistemas de Informação**.
+- 🎓 Graduação: **Sistemas de Informação**.
 
-## Certifications
+## Certificações
 - 🎓 **Microsoft Certified** - Azure Fundamentals (Azure AZ900).
 - 🎓 **Kanban University** - Team Kanban Practioner.
 - 🎓 **EXIN** - ITIL® Foundation Certificate in IT Service Management.
