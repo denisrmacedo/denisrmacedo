@@ -1,7 +1,7 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey What's up?</h1>
 
 <!-- <p> My name is Denis Macedo and i'm a Sofware Developer, from <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p> -->
-<p> Oi!, meu nome é Denis Macedo, sou um Desenvolvedor de Sistemas, de <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
+<p> Oi! Meu nome é Denis Macedo, sou um Desenvolvedor de Sistemas de <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
 
 ## Sobre
 
