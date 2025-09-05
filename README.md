@@ -17,7 +17,8 @@
 - 🎓 Graduação: **Sistemas de Informação**.
 
 ## Certificações
-- 🎓 **Microsoft Certified** - Azure Fundamentals (Azure AZ900).
+- 🎓 **Amazon Web Services** - AWS Certified Cloud Practitioner (CFL-C02).
+- 🎓 **Microsoft Certified** - Azure Fundamentals (AZ900).
 - 🎓 **Kanban University** - Team Kanban Practioner.
 - 🎓 **EXIN** - ITIL® Foundation Certificate in IT Service Management.
 
