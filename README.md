@@ -13,7 +13,7 @@
 
 ## Educação
 - 🎓 Pós Graduação em **Gerenciamento de Projeto**.
-- 🎓 Graduação: **Sistemas de Informação**.
+- 🎓 Graduação: **Bacharel em Sistemas de Informação**.
 
 ## Certificações
 - 🎓 **Amazon Web Services** - AWS Certified Cloud Practitioner (CFL-C02).
