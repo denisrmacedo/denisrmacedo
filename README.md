@@ -1,11 +1,10 @@
-<h1> Hey What's up?</h1>
+<h1>Olá pessoal 👋</h1>
 
-<!-- <p> My name is Denis Macedo and i'm a Sofware Developer, from <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p> -->
-<p> Oi! Meu nome é Denis Macedo, sou um Desenvolvedor de Sistemas de <b>Fortaleza - Ceará, Brasil</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
+<p> Oi! Meu nome é Denis, sou Bacharel em Sistemas de Informação e Desenvolvedor de Sistemas.</p>
 
 ## Sobre
 
-- ✨ Desenvolvo Sistemas desde 2018 🚀
+- ✨ Sou desenvolvedor de software desde 2018 🚀
 - 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,  
 - 🎯 Amo tecnologias e adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
 
