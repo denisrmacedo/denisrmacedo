@@ -1,6 +1,6 @@
 <h1>Olá pessoal 👋</h1>
 
-<p> 🎓 Oi! Meu nome é Denis, sou Bacharel em Sistemas de Informação e Desenvolvedor de Sistemas.</p>
+<p> Oi! Meu nome é Denis, sou Bacharel em Sistemas de Informação e Desenvolvedor de Sistemas.</p>
 
 ## Sobre
 
